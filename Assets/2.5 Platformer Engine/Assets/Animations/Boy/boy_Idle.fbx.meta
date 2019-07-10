@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: b40f154127ebd254fb7d3a35c2d4e78b
+timeCreated: 1501755652
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 EyeR
+    100004: Bip001 EyeROpp
+    100006: Bip001 Head
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger02
+    100018: Bip001 L Finger1
+    100020: Bip001 L Finger11
+    100022: Bip001 L Finger12
+    100024: Bip001 L Finger2
+    100026: Bip001 L Finger21
+    100028: Bip001 L Finger22
+    100030: Bip001 L Finger3
+    100032: Bip001 L Finger31
+    100034: Bip001 L Finger32
+    100036: Bip001 L Foot
+    100038: Bip001 L Forearm
+    100040: Bip001 L Hand
+    100042: Bip001 L Thigh
+    100044: Bip001 L Toe0
+    100046: Bip001 L UpperArm
+    100048: Bip001 Neck
+    100050: Bip001 Pelvis
+    100052: Bip001 Ponytail1
+    100054: Bip001 Ponytail11
+    100056: Bip001 Ponytail12
+    100058: Bip001 R Calf
+    100060: Bip001 R Clavicle
+    100062: Bip001 R Finger0
+    100064: Bip001 R Finger01
+    100066: Bip001 R Finger02
+    100068: Bip001 R Finger1
+    100070: Bip001 R Finger11
+    100072: Bip001 R Finger12
+    100074: Bip001 R Finger2
+    100076: Bip001 R Finger21
+    100078: Bip001 R Finger22
+    100080: Bip001 R Finger3
+    100082: Bip001 R Finger31
+    100084: Bip001 R Finger32
+    100086: Bip001 R Foot
+    100088: Bip001 R Forearm
+    100090: Bip001 R Hand
+    100092: Bip001 R Thigh
+    100094: Bip001 R Toe0
+    100096: Bip001 R UpperArm
+    100098: Bip001 Spine
+    100100: Bip001 Spine1
+    100102: Bip001 Spine2
+    100104: Box001
+    100106: Boy_Ctrl:ChestEndEffector
+    100108: Boy_Ctrl:ChestOriginEffector
+    100110: Boy_Ctrl:Head
+    100112: Boy_Ctrl:HeadEffector
+    100114: Boy_Ctrl:Hips
+    100116: Boy_Ctrl:HipsEffector
+    100118: Boy_Ctrl:LeftAnkleEffector
+    100120: Boy_Ctrl:LeftArm
+    100122: Boy_Ctrl:LeftElbowEffector
+    100124: Boy_Ctrl:LeftFoot
+    100126: Boy_Ctrl:LeftFootPinky1
+    100128: Boy_Ctrl:LeftFootPinkyEffector
+    100130: Boy_Ctrl:LeftForeArm
+    100132: Boy_Ctrl:LeftHand
+    100134: Boy_Ctrl:LeftHandIndex1
+    100136: Boy_Ctrl:LeftHandIndex2
+    100138: Boy_Ctrl:LeftHandIndex3
+    100140: Boy_Ctrl:LeftHandIndexEffector
+    100142: Boy_Ctrl:LeftHandMiddle1
+    100144: Boy_Ctrl:LeftHandMiddle2
+    100146: Boy_Ctrl:LeftHandMiddle3
+    100148: Boy_Ctrl:LeftHandMiddleEffector
+    100150: Boy_Ctrl:LeftHandRing1
+    100152: Boy_Ctrl:LeftHandRing2
+    100154: Boy_Ctrl:LeftHandRing3
+    100156: Boy_Ctrl:LeftHandRingEffector
+    100158: Boy_Ctrl:LeftHandThumb1
+    100160: Boy_Ctrl:LeftHandThumb2
+    100162: Boy_Ctrl:LeftHandThumb3
+    100164: Boy_Ctrl:LeftHandThumbEffector
+    100166: Boy_Ctrl:LeftHipEffector
+    100168: Boy_Ctrl:LeftKneeEffector
+    100170: Boy_Ctrl:LeftLeg
+    100172: Boy_Ctrl:LeftShoulder
+    100174: Boy_Ctrl:LeftShoulderEffector
+    100176: Boy_Ctrl:LeftUpLeg
+    100178: Boy_Ctrl:LeftWristEffector
+    100180: Boy_Ctrl:Neck
+    100182: Boy_Ctrl:Reference
+    100184: Boy_Ctrl:RightAnkleEffector
+    100186: Boy_Ctrl:RightArm
+    100188: Boy_Ctrl:RightElbowEffector
+    100190: Boy_Ctrl:RightFoot
+    100192: Boy_Ctrl:RightFootPinky1
+    100194: Boy_Ctrl:RightFootPinkyEffector
+    100196: Boy_Ctrl:RightForeArm
+    100198: Boy_Ctrl:RightHand
+    100200: Boy_Ctrl:RightHandIndex1
+    100202: Boy_Ctrl:RightHandIndex2
+    100204: Boy_Ctrl:RightHandIndex3
+    100206: Boy_Ctrl:RightHandIndexEffector
+    100208: Boy_Ctrl:RightHandMiddle1
+    100210: Boy_Ctrl:RightHandMiddle2
+    100212: Boy_Ctrl:RightHandMiddle3
+    100214: Boy_Ctrl:RightHandMiddleEffector
+    100216: Boy_Ctrl:RightHandRing1
+    100218: Boy_Ctrl:RightHandRing2
+    100220: Boy_Ctrl:RightHandRing3
+    100222: Boy_Ctrl:RightHandRingEffector
+    100224: Boy_Ctrl:RightHandThumb1
+    100226: Boy_Ctrl:RightHandThumb2
+    100228: Boy_Ctrl:RightHandThumb3
+    100230: Boy_Ctrl:RightHandThumbEffector
+    100232: Boy_Ctrl:RightHipEffector
+    100234: Boy_Ctrl:RightKneeEffector
+    100236: Boy_Ctrl:RightLeg
+    100238: Boy_Ctrl:RightShoulder
+    100240: Boy_Ctrl:RightShoulderEffector
+    100242: Boy_Ctrl:RightUpLeg
+    100244: Boy_Ctrl:RightWristEffector
+    100246: Boy_Ctrl:Spine
+    100248: Boy_Ctrl:Spine1
+    100250: Boy_Ctrl:Spine2
+    100252: //RootNode
+    100254: cowboy_Ctrl:ChestEndEffector
+    100256: cowboy_Ctrl:ChestOriginEffector
+    100258: cowboy_Ctrl:Head
+    100260: cowboy_Ctrl:HeadEffector
+    100262: cowboy_Ctrl:Hips
+    100264: cowboy_Ctrl:HipsEffector
+    100266: cowboy_Ctrl:LeftAnkleEffector
+    100268: cowboy_Ctrl:LeftArm
+    100270: cowboy_Ctrl:LeftElbowEffector
+    100272: cowboy_Ctrl:LeftFoot
+    100274: cowboy_Ctrl:LeftFootExtraFinger1
+    100276: cowboy_Ctrl:LeftFootExtraFinger2
+    100278: cowboy_Ctrl:LeftFootExtraFingerEffector
+    100280: cowboy_Ctrl:LeftForeArm
+    100282: cowboy_Ctrl:LeftHand
+    100284: cowboy_Ctrl:LeftHandIndex1
+    100286: cowboy_Ctrl:LeftHandIndex2
+    100288: cowboy_Ctrl:LeftHandIndex3
+    100290: cowboy_Ctrl:LeftHandIndex4
+    100292: cowboy_Ctrl:LeftHandIndexEffector
+    100294: cowboy_Ctrl:LeftHandMiddle1
+    100296: cowboy_Ctrl:LeftHandMiddle2
+    100298: cowboy_Ctrl:LeftHandMiddle3
+    100300: cowboy_Ctrl:LeftHandMiddle4
+    100302: cowboy_Ctrl:LeftHandMiddleEffector
+    100304: cowboy_Ctrl:LeftHandPinky1
+    100306: cowboy_Ctrl:LeftHandPinky2
+    100308: cowboy_Ctrl:LeftHandPinky3
+    100310: cowboy_Ctrl:LeftHandPinky4
+    100312: cowboy_Ctrl:LeftHandPinkyEffector
+    100314: cowboy_Ctrl:LeftHandRing1
+    100316: cowboy_Ctrl:LeftHandRing2
+    100318: cowboy_Ctrl:LeftHandRing3
+    100320: cowboy_Ctrl:LeftHandRing4
+    100322: cowboy_Ctrl:LeftHandRingEffector
+    100324: cowboy_Ctrl:LeftHandThumb1
+    100326: cowboy_Ctrl:LeftHandThumb2
+    100328: cowboy_Ctrl:LeftHandThumb3
+    100330: cowboy_Ctrl:LeftHandThumb4
+    100332: cowboy_Ctrl:LeftHandThumbEffector
+    100334: cowboy_Ctrl:LeftHipEffector
+    100336: cowboy_Ctrl:LeftKneeEffector
+    100338: cowboy_Ctrl:LeftLeg
+    100340: cowboy_Ctrl:LeftShoulder
+    100342: cowboy_Ctrl:LeftShoulderEffector
+    100344: cowboy_Ctrl:LeftUpLeg
+    100346: cowboy_Ctrl:LeftWristEffector
+    100348: cowboy_Ctrl:Neck
+    100350: cowboy_Ctrl:Reference
+    100352: cowboy_Ctrl:RightAnkleEffector
+    100354: cowboy_Ctrl:RightArm
+    100356: cowboy_Ctrl:RightElbowEffector
+    100358: cowboy_Ctrl:RightFoot
+    100360: cowboy_Ctrl:RightFootExtraFinger1
+    100362: cowboy_Ctrl:RightFootExtraFinger2
+    100364: cowboy_Ctrl:RightFootExtraFingerEffector
+    100366: cowboy_Ctrl:RightForeArm
+    100368: cowboy_Ctrl:RightHand
+    100370: cowboy_Ctrl:RightHandIndex1
+    100372: cowboy_Ctrl:RightHandIndex2
+    100374: cowboy_Ctrl:RightHandIndex3
+    100376: cowboy_Ctrl:RightHandIndex4
+    100378: cowboy_Ctrl:RightHandIndexEffector
+    100380: cowboy_Ctrl:RightHandMiddle1
+    100382: cowboy_Ctrl:RightHandMiddle2
+    100384: cowboy_Ctrl:RightHandMiddle3
+    100386: cowboy_Ctrl:RightHandMiddle4
+    100388: cowboy_Ctrl:RightHandMiddleEffector
+    100390: cowboy_Ctrl:RightHandPinky1
+    100392: cowboy_Ctrl:RightHandPinky2
+    100394: cowboy_Ctrl:RightHandPinky3
+    100396: cowboy_Ctrl:RightHandPinky4
+    100398: cowboy_Ctrl:RightHandPinkyEffector
+    100400: cowboy_Ctrl:RightHandRing1
+    100402: cowboy_Ctrl:RightHandRing2
+    100404: cowboy_Ctrl:RightHandRing3
+    100406: cowboy_Ctrl:RightHandRing4
+    100408: cowboy_Ctrl:RightHandRingEffector
+    100410: cowboy_Ctrl:RightHandThumb1
+    100412: cowboy_Ctrl:RightHandThumb2
+    100414: cowboy_Ctrl:RightHandThumb3
+    100416: cowboy_Ctrl:RightHandThumb4
+    100418: cowboy_Ctrl:RightHandThumbEffector
+    100420: cowboy_Ctrl:RightHipEffector
+    100422: cowboy_Ctrl:RightKneeEffector
+    100424: cowboy_Ctrl:RightLeg
+    100426: cowboy_Ctrl:RightShoulder
+    100428: cowboy_Ctrl:RightShoulderEffector
+    100430: cowboy_Ctrl:RightUpLeg
+    100432: cowboy_Ctrl:RightWristEffector
+    100434: cowboy_Ctrl:Spine
+    100436: cowboy_Ctrl:Spine1
+    100438: cowboy_Ctrl:Spine2
+    400000: Bip001
+    400002: Bip001 EyeR
+    400004: Bip001 EyeROpp
+    400006: Bip001 Head
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger02
+    400018: Bip001 L Finger1
+    400020: Bip001 L Finger11
+    400022: Bip001 L Finger12
+    400024: Bip001 L Finger2
+    400026: Bip001 L Finger21
+    400028: Bip001 L Finger22
+    400030: Bip001 L Finger3
+    400032: Bip001 L Finger31
+    400034: Bip001 L Finger32
+    400036: Bip001 L Foot
+    400038: Bip001 L Forearm
+    400040: Bip001 L Hand
+    400042: Bip001 L Thigh
+    400044: Bip001 L Toe0
+    400046: Bip001 L UpperArm
+    400048: Bip001 Neck
+    400050: Bip001 Pelvis
+    400052: Bip001 Ponytail1
+    400054: Bip001 Ponytail11
+    400056: Bip001 Ponytail12
+    400058: Bip001 R Calf
+    400060: Bip001 R Clavicle
+    400062: Bip001 R Finger0
+    400064: Bip001 R Finger01
+    400066: Bip001 R Finger02
+    400068: Bip001 R Finger1
+    400070: Bip001 R Finger11
+    400072: Bip001 R Finger12
+    400074: Bip001 R Finger2
+    400076: Bip001 R Finger21
+    400078: Bip001 R Finger22
+    400080: Bip001 R Finger3
+    400082: Bip001 R Finger31
+    400084: Bip001 R Finger32
+    400086: Bip001 R Foot
+    400088: Bip001 R Forearm
+    400090: Bip001 R Hand
+    400092: Bip001 R Thigh
+    400094: Bip001 R Toe0
+    400096: Bip001 R UpperArm
+    400098: Bip001 Spine
+    400100: Bip001 Spine1
+    400102: Bip001 Spine2
+    400104: Box001
+    400106: Boy_Ctrl:ChestEndEffector
+    400108: Boy_Ctrl:ChestOriginEffector
+    400110: Boy_Ctrl:Head
+    400112: Boy_Ctrl:HeadEffector
+    400114: Boy_Ctrl:Hips
+    400116: Boy_Ctrl:HipsEffector
+    400118: Boy_Ctrl:LeftAnkleEffector
+    400120: Boy_Ctrl:LeftArm
+    400122: Boy_Ctrl:LeftElbowEffector
+    400124: Boy_Ctrl:LeftFoot
+    400126: Boy_Ctrl:LeftFootPinky1
+    400128: Boy_Ctrl:LeftFootPinkyEffector
+    400130: Boy_Ctrl:LeftForeArm
+    400132: Boy_Ctrl:LeftHand
+    400134: Boy_Ctrl:LeftHandIndex1
+    400136: Boy_Ctrl:LeftHandIndex2
+    400138: Boy_Ctrl:LeftHandIndex3
+    400140: Boy_Ctrl:LeftHandIndexEffector
+    400142: Boy_Ctrl:LeftHandMiddle1
+    400144: Boy_Ctrl:LeftHandMiddle2
+    400146: Boy_Ctrl:LeftHandMiddle3
+    400148: Boy_Ctrl:LeftHandMiddleEffector
+    400150: Boy_Ctrl:LeftHandRing1
+    400152: Boy_Ctrl:LeftHandRing2
+    400154: Boy_Ctrl:LeftHandRing3
+    400156: Boy_Ctrl:LeftHandRingEffector
+    400158: Boy_Ctrl:LeftHandThumb1
+    400160: Boy_Ctrl:LeftHandThumb2
+    400162: Boy_Ctrl:LeftHandThumb3
+    400164: Boy_Ctrl:LeftHandThumbEffector
+    400166: Boy_Ctrl:LeftHipEffector
+    400168: Boy_Ctrl:LeftKneeEffector
+    400170: Boy_Ctrl:LeftLeg
+    400172: Boy_Ctrl:LeftShoulder
+    400174: Boy_Ctrl:LeftShoulderEffector
+    400176: Boy_Ctrl:LeftUpLeg
+    400178: Boy_Ctrl:LeftWristEffector
+    400180: Boy_Ctrl:Neck
+    400182: Boy_Ctrl:Reference
+    400184: Boy_Ctrl:RightAnkleEffector
+    400186: Boy_Ctrl:RightArm
+    400188: Boy_Ctrl:RightElbowEffector
+    400190: Boy_Ctrl:RightFoot
+    400192: Boy_Ctrl:RightFootPinky1
+    400194: Boy_Ctrl:RightFootPinkyEffector
+    400196: Boy_Ctrl:RightForeArm
+    400198: Boy_Ctrl:RightHand
+    400200: Boy_Ctrl:RightHandIndex1
+    400202: Boy_Ctrl:RightHandIndex2
+    400204: Boy_Ctrl:RightHandIndex3
+    400206: Boy_Ctrl:RightHandIndexEffector
+    400208: Boy_Ctrl:RightHandMiddle1
+    400210: Boy_Ctrl:RightHandMiddle2
+    400212: Boy_Ctrl:RightHandMiddle3
+    400214: Boy_Ctrl:RightHandMiddleEffector
+    400216: Boy_Ctrl:RightHandRing1
+    400218: Boy_Ctrl:RightHandRing2
+    400220: Boy_Ctrl:RightHandRing3
+    400222: Boy_Ctrl:RightHandRingEffector
+    400224: Boy_Ctrl:RightHandThumb1
+    400226: Boy_Ctrl:RightHandThumb2
+    400228: Boy_Ctrl:RightHandThumb3
+    400230: Boy_Ctrl:RightHandThumbEffector
+    400232: Boy_Ctrl:RightHipEffector
+    400234: Boy_Ctrl:RightKneeEffector
+    400236: Boy_Ctrl:RightLeg
+    400238: Boy_Ctrl:RightShoulder
+    400240: Boy_Ctrl:RightShoulderEffector
+    400242: Boy_Ctrl:RightUpLeg
+    400244: Boy_Ctrl:RightWristEffector
+    400246: Boy_Ctrl:Spine
+    400248: Boy_Ctrl:Spine1
+    400250: Boy_Ctrl:Spine2
+    400252: //RootNode
+    400254: cowboy_Ctrl:ChestEndEffector
+    400256: cowboy_Ctrl:ChestOriginEffector
+    400258: cowboy_Ctrl:Head
+    400260: cowboy_Ctrl:HeadEffector
+    400262: cowboy_Ctrl:Hips
+    400264: cowboy_Ctrl:HipsEffector
+    400266: cowboy_Ctrl:LeftAnkleEffector
+    400268: cowboy_Ctrl:LeftArm
+    400270: cowboy_Ctrl:LeftElbowEffector
+    400272: cowboy_Ctrl:LeftFoot
+    400274: cowboy_Ctrl:LeftFootExtraFinger1
+    400276: cowboy_Ctrl:LeftFootExtraFinger2
+    400278: cowboy_Ctrl:LeftFootExtraFingerEffector
+    400280: cowboy_Ctrl:LeftForeArm
+    400282: cowboy_Ctrl:LeftHand
+    400284: cowboy_Ctrl:LeftHandIndex1
+    400286: cowboy_Ctrl:LeftHandIndex2
+    400288: cowboy_Ctrl:LeftHandIndex3
+    400290: cowboy_Ctrl:LeftHandIndex4
+    400292: cowboy_Ctrl:LeftHandIndexEffector
+    400294: cowboy_Ctrl:LeftHandMiddle1
+    400296: cowboy_Ctrl:LeftHandMiddle2
+    400298: cowboy_Ctrl:LeftHandMiddle3
+    400300: cowboy_Ctrl:LeftHandMiddle4
+    400302: cowboy_Ctrl:LeftHandMiddleEffector
+    400304: cowboy_Ctrl:LeftHandPinky1
+    400306: cowboy_Ctrl:LeftHandPinky2
+    400308: cowboy_Ctrl:LeftHandPinky3
+    400310: cowboy_Ctrl:LeftHandPinky4
+    400312: cowboy_Ctrl:LeftHandPinkyEffector
+    400314: cowboy_Ctrl:LeftHandRing1
+    400316: cowboy_Ctrl:LeftHandRing2
+    400318: cowboy_Ctrl:LeftHandRing3
+    400320: cowboy_Ctrl:LeftHandRing4
+    400322: cowboy_Ctrl:LeftHandRingEffector
+    400324: cowboy_Ctrl:LeftHandThumb1
+    400326: cowboy_Ctrl:LeftHandThumb2
+    400328: cowboy_Ctrl:LeftHandThumb3
+    400330: cowboy_Ctrl:LeftHandThumb4
+    400332: cowboy_Ctrl:LeftHandThumbEffector
+    400334: cowboy_Ctrl:LeftHipEffector
+    400336: cowboy_Ctrl:LeftKneeEffector
+    400338: cowboy_Ctrl:LeftLeg
+    400340: cowboy_Ctrl:LeftShoulder
+    400342: cowboy_Ctrl:LeftShoulderEffector
+    400344: cowboy_Ctrl:LeftUpLeg
+    400346: cowboy_Ctrl:LeftWristEffector
+    400348: cowboy_Ctrl:Neck
+    400350: cowboy_Ctrl:Reference
+    400352: cowboy_Ctrl:RightAnkleEffector
+    400354: cowboy_Ctrl:RightArm
+    400356: cowboy_Ctrl:RightElbowEffector
+    400358: cowboy_Ctrl:RightFoot
+    400360: cowboy_Ctrl:RightFootExtraFinger1
+    400362: cowboy_Ctrl:RightFootExtraFinger2
+    400364: cowboy_Ctrl:RightFootExtraFingerEffector
+    400366: cowboy_Ctrl:RightForeArm
+    400368: cowboy_Ctrl:RightHand
+    400370: cowboy_Ctrl:RightHandIndex1
+    400372: cowboy_Ctrl:RightHandIndex2
+    400374: cowboy_Ctrl:RightHandIndex3
+    400376: cowboy_Ctrl:RightHandIndex4
+    400378: cowboy_Ctrl:RightHandIndexEffector
+    400380: cowboy_Ctrl:RightHandMiddle1
+    400382: cowboy_Ctrl:RightHandMiddle2
+    400384: cowboy_Ctrl:RightHandMiddle3
+    400386: cowboy_Ctrl:RightHandMiddle4
+    400388: cowboy_Ctrl:RightHandMiddleEffector
+    400390: cowboy_Ctrl:RightHandPinky1
+    400392: cowboy_Ctrl:RightHandPinky2
+    400394: cowboy_Ctrl:RightHandPinky3
+    400396: cowboy_Ctrl:RightHandPinky4
+    400398: cowboy_Ctrl:RightHandPinkyEffector
+    400400: cowboy_Ctrl:RightHandRing1
+    400402: cowboy_Ctrl:RightHandRing2
+    400404: cowboy_Ctrl:RightHandRing3
+    400406: cowboy_Ctrl:RightHandRing4
+    400408: cowboy_Ctrl:RightHandRingEffector
+    400410: cowboy_Ctrl:RightHandThumb1
+    400412: cowboy_Ctrl:RightHandThumb2
+    400414: cowboy_Ctrl:RightHandThumb3
+    400416: cowboy_Ctrl:RightHandThumb4
+    400418: cowboy_Ctrl:RightHandThumbEffector
+    400420: cowboy_Ctrl:RightHipEffector
+    400422: cowboy_Ctrl:RightKneeEffector
+    400424: cowboy_Ctrl:RightLeg
+    400426: cowboy_Ctrl:RightShoulder
+    400428: cowboy_Ctrl:RightShoulderEffector
+    400430: cowboy_Ctrl:RightUpLeg
+    400432: cowboy_Ctrl:RightWristEffector
+    400434: cowboy_Ctrl:Spine
+    400436: cowboy_Ctrl:Spine1
+    400438: cowboy_Ctrl:Spine2
+    7400000: Idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
